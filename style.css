@@ -1,0 +1,408 @@
+	*{
+			transition-duration: 0.5s;
+		}
+		
+		body{
+background-color: #000000;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%23220000' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23440000' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23660000' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%23880000' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%23A00' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;}
+		.all{
+			
+}
+		
+		
+		#f1{
+			
+			margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			margin-left: 125px;
+			border: 1px solid;
+			border-radius: 10px;
+			display: inline-block;
+			background-color: black;
+			animation-name: dsdsd;
+			animation-iteration-count: 1;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			animation-delay: 6s;
+			position: absolute;
+			animation-play-state: running;
+
+
+
+		}
+		#p1{
+			animation-name: return;
+			animation-iteration-count: 1;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			animation-delay: 6s;
+			position: absolute;
+			animation-play-state: running
+				
+				
+				
+				
+				;
+
+		}
+	
+		
+		
+
+	
+	
+		@keyframes dsdsd{
+			0%{
+				opacity: 100%;
+			}
+			50%,100%{
+				opacity: 0%;
+			}
+			
+		}
+		@keyframes dah{
+			0%,100%{
+				margin-left: -1370px;
+				
+			}
+			
+		}
+			
+		
+					
+		
+					
+		
+		#f2{
+			margin-left: 125px;
+			margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			border: 1px solid;
+			border-radius: 10px;
+			background-color: black;
+			position: absolute;
+			animation-name: dsdsd;
+			animation-iteration-count: 1;
+			animation-delay: 9s;
+			animation-duration: 5s;
+			animation-fill-mode: forwards ;
+			animation-play-state: running;
+			display: block;
+
+
+		}
+		#f3{
+			margin-left: 120;
+			margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			border: 1px solid;
+			border-radius: 10px;
+			background-color: black;
+			animation-name: dsdsd;
+			animation-iteration-count: 1;
+			animation-delay: 12s;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			position: absolute;
+			animation-play-state: running;
+display: block;
+
+			
+		}	
+		#f4{
+			margin-left: 120;
+			margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			border: 1px solid;
+			border-radius: 10px;
+			background-color: black;
+			animation-name: dsdsd;
+			animation-iteration-count: 1;
+			animation-delay: 15s;
+			animation-duration: 5s;
+			animation-fill-mode:forwards;
+			position: absolute;
+			animation-play-state: running;
+			display: block;
+
+
+			
+		}	
+		#f5{
+			margin-left: 120;
+			margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			border: 1px solid;
+			border-radius: 10px;
+			background-color: black;
+			animation-name: dsdsd;
+
+			animation-iteration-count: 1;
+			animation-delay: 18s;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			position: absolute;
+			animation-play-state: running;
+display: block;
+		
+			
+		}
+	
+		#l1{
+			margin-left: 120;
+			margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			border: 1px solid;
+			border-radius: 10px;
+			background-color: black;
+			animation-name: dsdsd;
+			animation-iteration-count: 1;
+			animation-delay: 27s;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			position: absolute;
+			animation-play-state: running;
+display: block;
+			
+		}
+		#l2{
+			margin-left: 120;
+			margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			border: 1px solid;
+			border-radius: 10px;
+			background-color: black;
+			animation-name: dsdsd;
+			animation-iteration-count: 1;
+			animation-delay: 24s;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			position: absolute;
+			animation-play-state: running;
+display: block;
+			
+		}
+		#l3{
+			margin-left: 120;
+			margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			border: 1px solid;
+			border-radius: 12px;
+			background-color: black;
+			animation-name: dsdsd;
+			animation-iteration-count: 1;
+			animation-delay: 21s;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			position: absolute;
+			animation-play-state: running;
+display: block;
+			
+		}
+		
+		
+		#ok{
+				margin-left: 0;
+			margin-top: 157px;
+			width: 1200;
+			height: 300px;
+			border: 1px solid;
+			border-radius: 12px;
+			
+		}
+		#the{
+			background-size: cover;
+			width: 1400;
+			height: 700px;
+			position: absolute;
+
+		}
+		#tu{
+			margin-left: 120;
+			margin-top: 157px;
+			width: 800;
+			height: 500px;
+			border: 1px solid;
+			border-radius: 10px;
+			animation-name: dsdsd;
+position: absolute;
+			animation-iteration-count: 1;
+			animation-delay: 10s;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			position: a;
+			animation-play-state: running;
+display: block;
+			
+		}
+		#tg{
+			
+		margin-top: 157px;
+			width: 1200;
+			height: 500px;
+			margin-left: 100px;
+			border: 1px solid;
+			border-radius: 10px;
+			display: inline-block;
+			background-color: black;
+			animation-name: dsdsd;
+			animation-iteration-count: 1;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			animation-delay: 3s;
+			position: absolute;
+			animation-play-state: running;
+		}
+		
+		@keyframes opac{
+			0%{
+				opacity: 100%;
+			}
+			50%,100%{
+				opacity: 0%;
+			}
+		}
+		#ce{
+			margin-left: 0px;
+			margin-top: 90px;
+			width: 1400;
+			height: 570px;
+			border: 1px solid;
+			border-radius: 12px;
+			background-color: black;
+			animation-iteration-count: 1;
+			animation-delay: 32s;
+			animation-duration: 5s;
+			animation-fill-mode: forwards;
+			position: absolute;
+			animation-play-state: running;
+display: block;
+			
+		}
+		#sw1,#sw2,#sw3,#sw4{
+			margin-top: 30px;
+			justify-content: space-between;
+			justify-content: center;
+			justify-items: center;
+			box-shadow: 2px 2px 2x 2px;
+		}
+		
+	
+		
+		
+		
+						
+
+
+		
+		#pop{
+			margin-top: 700px;
+			width: 120px;
+			
+			
+		}
+	
+		
+		
+		
+		
+		#down,#down1,#down2,#down3,#down4,#down5,#down6,#down7,#down8,#down9,#down10,#down11,#down12,#down13,#down14,#down15,#down16,#down17,#down18,#down19,#down20,#down21,#down22,#down23{
+			     
+        width: 120px;
+    height: 40px;
+    border: 1px solid white;
+ display: inline;
+			position: absolute;
+			margin-top: 200px;
+			margin-left: 25px;
+			    font-family: "Roboto",sans-serif;
+font-size: 25px;
+			color: white;
+									background-color: blue;
+			display: none;
+
+			
+		}
+		#down:hover,#down1:hover,down2:hover,#down3:hover,#down4:hover,#down5:hover,#down6:hover,down7:hover,#down8:hover,#down9:hover,#down10:hover#down11:hover,#down12:hover,down13:hover,#down14:hover,#down15:hover,#down16:hover#down17:hover,#down18:hover,down19:hover,#down20:hover,#down21:hover,#down22:hover#down23:hover{
+			background-color: navy;
+		}
+		#down:active{
+
+		}
+		
+		#pla,#pla1,#pla2,#pla3,#pla4,#pla5,#pla6,#pla7,#pla8,#pla9,#pla10,#pla11,#pla12,#pla13,#pla14,#pla15,#pla16,#pla17,#pla18,#pla19,#pla20,#pla21,#pla22,#pla23{
+			     
+        width: 120px;
+    height: 40px;
+    border: 1px solid white;
+ display: inline;
+			position: absolute;
+			margin-top: 200px;
+			margin-left: 150px;
+			    font-family: "Roboto",sans-serif;
+font-size: 25px;
+			background-color: red;
+			color: white;
+						display: none;
+
+
+		}
+		#down1,#down5,#down9,#down13,#down17,#down21{
+			margin-left: 310px;
+		}
+		#pla1,#pla5,#pla9,#pla13,#pla17,#pla21{
+						margin-left: 435px;
+
+			
+		}
+		#down2,#down6,#down10,#down14,#down18,#down22{
+			margin-left: 590;
+			
+			
+		}
+		#pla2,#pla6,#pla10,#pla14,#pla18,#pla22{
+			margin-left: 720;
+			
+		}
+		#down3,#down7,#down11,#down15,#down19,#down23{
+			margin-left: 870px;
+			
+		}
+		#pla3,#pla7,#pla11,#pla15,#pla19,#pla23{
+			margin-left: 1005px;
+			
+		}
+		#down4,#pla4,#down5,#pla5,#down6,#down7,#pla6,#pla7{
+			margin-top: 640px;
+		}
+		#down8,#pla8,#down9,#pla9,#down10,#down11,#pla10,#pla11{
+			margin-top: 1080px;
+		}
+		#down12,#pla12,#down13,#pla13,#down14,#down15,#pla14,#pla15{
+			margin-top: 1480px;
+		}
+		#down16,#pla16,#down17,#pla17,#down18,#down19,#pla18,#pla19{
+			margin-top: 1960px;
+		}
+		#down20,#pla20,#down21,#pla21,#down22,#down23,#pla22,#pla23{
+			margin-top: 2400;
+		}
+		#sw2.#down1,#pla1:hover{
+			display: block;
+			
+		}
+		#sw5,#sw6,#sw7,#sw8,#sw9,#sw10,#sw11,#sw12,#sw13,#sw14,#sw15,#sw16,#sw17,#sw18,#sw19,#sw20,#sw21,#sw22,#sw23,#sw24{
+			
+			margin-top: 50px;
+		}
+		
